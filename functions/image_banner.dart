@@ -16,3 +16,4 @@ class ImageBanner extends StatelessWidget {
         ));
   }
 }
+//This function shows images in the main window from the assets folder
